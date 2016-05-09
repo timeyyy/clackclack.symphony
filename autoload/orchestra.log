@@ -1,0 +1,5 @@
+System is: Linux-3.13.0-63-generic-i686-with-Ubuntu-14.04-trusty
+Python archetecture is: 32bit
+Machine archetecture is: i686
+made new autocmd for Orchestra_CursorMovedI
+made new autocmd for Orchestra_CursorMoved
